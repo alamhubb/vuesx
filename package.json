@@ -1,6 +1,6 @@
 {
-  "name": "vuesx",
-  "version": "1.0.0",
+  "name": "vue-template-jsx",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alamhubb/vuesx.git"
+    "url": "git+https://github.com/alamhubb/vue-template-jsx.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alamhubb/vuesx/issues"
+    "url": "https://github.com/alamhubb/vue-template-jsx/issues"
   },
-  "homepage": "https://github.com/alamhubb/vuesx#readme"
+  "homepage": "https://github.com/alamhubb/vue-template-jsx#readme"
 }
